@@ -10,6 +10,5 @@ dependencies:
     - ipywidgets
     - pandas
     - matplotlib
-    - pypfopt
     - numpy
     
