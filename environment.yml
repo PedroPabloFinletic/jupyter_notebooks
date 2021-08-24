@@ -2,6 +2,12 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - libsm6
+  - libxext6
+  - ffmpeg
+  - libfontconfig1
+  - libxrender1
+  - libgl1-mesa-glx
   - python
   - numpy
   - pip
@@ -14,4 +20,5 @@ dependencies:
     - PyQt5
     - openpyxl
     - Cycler
+    - opencv-python
     
