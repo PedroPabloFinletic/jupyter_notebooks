@@ -7,6 +7,9 @@ apt:
     - libfontconfig1
     - libxrender1
     - libgl1-mesa-glx
+    - python3-opencv
+    - libgl1
+    - opencv
 channels:
   - conda-forge
 dependencies:
