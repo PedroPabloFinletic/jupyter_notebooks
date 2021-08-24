@@ -11,4 +11,7 @@ dependencies:
     - pandas
     - matplotlib
     - numpy
+    - PyQt5
+    - openpyxl
+    - Cycler
     
