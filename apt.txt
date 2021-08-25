@@ -7,4 +7,3 @@ libfontconfig1
 libxrender1
 python3-opencv
 libgl1
-opencv
