@@ -22,7 +22,8 @@ dependencies:
     - pandas
     - matplotlib
     - numpy
-    - PyQt5
+    - pyqt5
+    - pyqt5-tools
     - openpyxl
     - Cycler
     - opencv-python
